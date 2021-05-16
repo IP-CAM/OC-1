@@ -1,3 +1,21 @@
+[Ocstore] (https://ocstore.com/)
+
+[To connect to SSH to the GitHub repository cm ...] (https://github.com/sevenpowerx-php/startphp/blob/master/readme.md)
+
+[Fork Repository and Set Upstream] (https://github.com/sevenpowerx/workgithub/blob/master/repo_fork.md)
+
+[Andrey Kudlay | Online store on OpenCart. Creating a store with a unique template (2017)] (http://nnm-club.me/forum/viewtopic.php?t=1152647)
+
+[Online store on OpenCart] (File: /// C: /Ussers/user/Downloads/opencart/start.html)
+
+  - [Part 1. Creating Styletour theme on OpenCart] ()
+      - [Introduction. Organizational questions] (File: /// C: /UserS/user/downloads/opencart/videokurs/part1/part1_1.html)
+      - [Install OpenCart] (File: /// C: /UserS/user/Downloads/opencart/videokurs/part1/part1_2.html)
+      - [OpenCart theme structure] (File: /// C: /UserS/user/Downloads/opencart/videokurs/part1/part1_3.html)
+       - [Transfer pattern to topic structure] (File: /// C: /Ussers/user/downloads/opencart/videokurs/part1/part1_4.html)
+
+-----------------
+
 [ocStore](https://ocstore.com/)
 
 [для подключения по ssh к GitHub репозиторию см ...](https://github.com/SevenPowerX-PHP/StartPHP/blob/master/README.md)
